@@ -1,0 +1,7 @@
+Program.class
+core\Input.class
+entities\Manager.class
+Test.class
+entities\Person.class
+entities\Employee.class
+Company.class
